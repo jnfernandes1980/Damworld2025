@@ -11,8 +11,21 @@ Besides other functionalities, the most important sections are #Geometric data, 
 
 1. Register
 2. Choose the area that is important for you
-3. Use this data for our case study
-4. a GitHub account if you don't have one and confirm your e-mail (required!)
+3. Sownload tif
+  
+   ![image](https://github.com/user-attachments/assets/9e5ddcee-ceae-4aff-b4bf-0868e8351ec0)
+
+# Create terrain
+
+1. In RAS Mapper - Add projection
+2. Add new terrain with data downloaded before
+3.
+   ![image](https://github.com/user-attachments/assets/6e825357-2ded-46f2-885c-8c815e2af5c5)
+Register
+
+![image](https://github.com/user-attachments/assets/803a33fe-9d1f-4c1a-b97f-5b70872582b8)
+Use this data for our case study
+6. a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and add your content.
