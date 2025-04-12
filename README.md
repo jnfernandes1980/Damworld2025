@@ -36,7 +36,7 @@ Download Elevation Data https://search.earthdata.nasa.gov/search
 Register
 
 # STEP2:Create Storage Area 
-##It will be your reservoir
+## It will be your reservoir
 
 1. In RAS Mapper
 
@@ -47,13 +47,13 @@ Register
 
 
 # STEP3:Create Connection storage area - 2d mesh 
-##It will be the dam you want to breach
+## It will be the dam you want to breach
 
 
 ![image](https://github.com/user-attachments/assets/1e67c8ef-2e0c-4df0-a355-baf680146113)
 
 # STEP4: Create valley where breack wave will propagate 
-##It will be affected area
+## It will be affected area
 1d
 ![image](https://github.com/user-attachments/assets/f3722c68-7a9c-4b33-b480-58f61433c7bd)
 ![image](https://github.com/user-attachments/assets/799c0b21-5bb2-4d67-8775-a400ef2db6ad)
