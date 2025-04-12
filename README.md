@@ -1,7 +1,8 @@
 # Damworld2025 - Using HEC-RAS for dam break simulation - Case Study
 
-Welcome to this tutorial for the lecture on dam break simulation. It will guide you and cover the several steps to get the inundation due to a breach in a dam.
-Therse are the main components:
+Welcome to this tutorial for the lecture on dam break simulation. 
+It will guide you and cover the main steps to get the inundation due to a breach in a dam.
+These are the main components:
 ![image](https://github.com/user-attachments/assets/470b280e-6676-489a-80e2-f6a7078227a4)
 
 This is the current User Interface of HEC-RAS:
@@ -9,30 +10,43 @@ This is the current User Interface of HEC-RAS:
 
 Besides other functionalities, the most important sections are #Geometric data, #Simulations and #RAS Mapper
 
+# STEP 0: Get terrain data
 
-
-# Download Elevation Data https://search.earthdata.nasa.gov/search
+Download Elevation Data https://search.earthdata.nasa.gov/search
 
 1. Register
 2. Choose the area that is important for you
-3. Download tif
+3. Download SRTM (1 sec arc in tif format)
   
    ![image](https://github.com/user-attachments/assets/9e5ddcee-ceae-4aff-b4bf-0868e8351ec0)
 
-# Create terrain
+# STEP 1: Create terrain
 
 1. In RAS Mapper - Add projection (https://spatialreference.org/)
-2. Add new terrain with data downloaded before
+2. Add new terrain with downloaded data (if you have more than one data set, order it. Put in the top the most relevant (LiDAR for the river and SRTM for the floodplains, for example) 
 3. Create terrain
    
    ![image](https://github.com/user-attachments/assets/6e825357-2ded-46f2-885c-8c815e2af5c5)
 Register
 
-# Create Storage Area (It will be your reservoir)
+# STEP2:Create Storage Area (It will be your reservoir)
 
 1. In RAS Mapper
 
-2. 
+2. Add new storage area
+
+![image](https://github.com/user-attachments/assets/8ebd8ff7-8314-49b0-a84f-03ae3bd38780)
+![image](https://github.com/user-attachments/assets/4eb3a4a1-1d37-4947-ab12-4c54ed3bdb58)
+
+
+# STEP3:Create Connection storage area - 2d mesh (It will be the dam you want to breach)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4a8384bd-8a44-4094-9fdc-8f0af32edb16)
+
 ![image](https://github.com/user-attachments/assets/803a33fe-9d1f-4c1a-b97f-5b70872582b8)
 Use this data for our case study
 6. a GitHub account if you don't have one and confirm your e-mail (required!)
