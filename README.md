@@ -42,9 +42,25 @@ Register
 # STEP3:Create Connection storage area - 2d mesh (It will be the dam you want to breach)
 
 
+![image](https://github.com/user-attachments/assets/1e67c8ef-2e0c-4df0-a355-baf680146113)
+
+# STEP4: Create valley where breack wave will propagate (It will be affected area)
+1d
+![image](https://github.com/user-attachments/assets/f3722c68-7a9c-4b33-b480-58f61433c7bd)
+![image](https://github.com/user-attachments/assets/799c0b21-5bb2-4d67-8775-a400ef2db6ad)
+2d
+![image](https://github.com/user-attachments/assets/3a210463-8c2f-4817-abc6-37e7c6c78803)
+
+# STEP4: Run your model (Unsteady flow)
+
+![image](https://github.com/user-attachments/assets/e1f8e35a-e9f2-4300-b847-5739405be56f)
 
 
 
+![image](https://github.com/user-attachments/assets/6ee87f42-bf45-49fa-b8ec-52434e17298e)
+
+Create valley where breack wave will propagate (It will be affected area)
+1d
 ![image](https://github.com/user-attachments/assets/4a8384bd-8a44-4094-9fdc-8f0af32edb16)
 
 ![image](https://github.com/user-attachments/assets/803a33fe-9d1f-4c1a-b97f-5b70872582b8)
