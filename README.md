@@ -10,6 +10,12 @@ This is the current User Interface of HEC-RAS:
 
 Besides other functionalities, the most important sections are #Geometric data, #Simulations and #RAS Mapper
 
+# Case study
+As a dumb dam needed to be considered and as real cases are normally confidential, Alvito dam in Ocreza river (to be constructed) will serve as a case study.
+Some characteristics can be found here: https://siaia.apambiente.pt/AIADOC/AIA2158/ParecerCA.pdf
+![image](https://github.com/user-attachments/assets/20834fdd-83c2-4beb-84cf-b32848d12857)
+
+
 # STEP 0: Get terrain data
 
 Download Elevation Data https://search.earthdata.nasa.gov/search
@@ -59,6 +65,10 @@ Register
 
 ![image](https://github.com/user-attachments/assets/6ee87f42-bf45-49fa-b8ec-52434e17298e)
 
+![image](https://github.com/user-attachments/assets/7865f563-c0d0-438c-8cf7-77c823fa8d47)
+
+![image](https://github.com/user-attachments/assets/00f7fe8c-96da-4a78-b926-6b60060185ba)
 
 
-## Disclamer: this repwas done for support the lecture on dam break flood simulation using HEC-RASfrom the Conference Damworld 2025 (LNEC - João Nuno Fernandes, jnfernandes_at_lnec.pt)
+## Disclamer: 
+This page was done for support the lecture on dam break flood simulation using HEC-RASfrom the Conference Damworld 2025 (LNEC - João Nuno Fernandes, jnfernandes_at_lnec.pt)
