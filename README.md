@@ -69,6 +69,10 @@ Register
 
 ![image](https://github.com/user-attachments/assets/00f7fe8c-96da-4a78-b926-6b60060185ba)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L0s_fB_Dcdc/0.jpg)](https://www.youtube.com/watch?v=L0s_fB_Dcdc)
 
+
+
+Files for the case study: https://filesender.fccn.pt/?s=download&token=8a4c194e-d804-46f7-a0a7-d1dc27ab8ac5
 ## Disclamer: 
 This page was done for support the lecture on dam break flood simulation using HEC-RASfrom the Conference Damworld 2025 (LNEC - João Nuno Fernandes, jnfernandes_at_lnec.pt)
